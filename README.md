@@ -18,7 +18,7 @@ In this project you must create a web service that uses machine learning to make
 
 To enhance your submission, you might consider developing and comparing more than one model. Rest assured, all the above concepts will be explored in lecture videos and other materials in the coming semester.
 
-
+![imagen eolica](https://i.blogs.es/77499c/eolica/1024_2000.jpg)
 
 **This Project can be found in detail in the file Project 52954.ipynb**
 
